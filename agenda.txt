@@ -1,0 +1,25 @@
+This document is a basic procedure for running a Chi Square lecture for IO519. 
+
+It was prepared by Benjamin J. Theisen, a TA of IO519 under Professor Robert Miller, in 2016-2017.
+
+The basic procedure for class is:
+
+    1. Start with a presentation - Begins at 4:00 pm, runs 90 minutes
+    2. Give a break -- Begins at 5:30 pm, runs 15 minutes
+    3. Do a demonstration/application - Begins at 5:45 pm, runs 60 minutes
+    4. Give a break - Begins at 6:45 pm, runs 15 minutes
+    5. Run lab - Begins at 7:00 pm, runs 60 minutes or until finished
+    6. Dismiss at 8:00 pm or at end of lab, whichever comes first.
+
+
+1.    Start with a Presentation (45 minutes PowerPoint, 45 minutes on competencies). TA1 at the podium (TA2 on the side) for PowerPoint, TA2 at the podium and whiteboard (TA1 on the side) for competencies part. 
+        Use PowerPoint from Chi Square folder
+        Use competencies from Canvas Module to make it easier for students to see their progress, do self-check, practice, etc. It's interactive and useful for self-study if the students choose to review later. They may not, but it adds a nice structure to the on-ground session and puts the learning in discrete, actionable terms.
+
+2. Break 
+3. Do Fakenet demonstration/application. Materials include Foxconn teacher/learner form set, dataset, and SPSS output. 
+4. Break 
+5. Run lab from main course materials on Canvas.
+6. Dismiss
+
+
